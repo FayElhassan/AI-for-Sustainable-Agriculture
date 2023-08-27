@@ -1,6 +1,6 @@
 
 
-# Reinforcement Learning for Greenhouse Control Optimization
+# AI for Sustainable Agriculture: Greenhouse Control Optimization
 
 Welcome to this repository, which is dedicated to exploring the application of various Reinforcement Learning (RL) algorithms for optimizing environmental conditions in greenhouses. The project implements Proximal Policy Optimization (PPO), Asynchronous Advantage Actor-Critic (A2C), and Soft Actor-Critic (SAC) algorithms in custom-designed simulation environments.
 
