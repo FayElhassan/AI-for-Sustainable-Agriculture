@@ -70,6 +70,4 @@ Feel free to fork the repository and submit pull requests. For bugs, questions, 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
 
-This should give a comprehensive overview of your project while guiding the user on how to use your code. Feel free to modify as you see fit!
